@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VNogin.FluentAssertions.FakeDbProvider</name>
+    </assembly>
+    <members>
+        <member name="M:VNogin.FluentAssertions.FakeDbProvider.FakeDbConnectionAssertions.HaveSingleOpenWithTransaction">
+            <summary>
+            Verify DbConnection has been OpenAsync, BeginTransaction, Commit, Close and Dispose
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:VNogin.FluentAssertions.FakeDbProvider.FakeDbConnectionAssertions.HaveSingleOpen">
+            <summary>
+            Verify DbConnection has been OpenAsync, BeginTransaction, Commit, Close and Dispose
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:VNogin.FluentAssertions.FakeDbProvider.FakeDbConnectionAssertions.HaveSingleOpenWithTransactionRollback">
+            <summary>
+            Verify DbConnection has been OpenAsync, BeginTransaction, Commit, Close and Dispose
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

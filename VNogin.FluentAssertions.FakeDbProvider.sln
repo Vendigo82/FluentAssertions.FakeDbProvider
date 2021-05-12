@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VNogin.FluentAssertions.FakeDbProvider", "src\VNogin.FluentAssertions.FakeDbProvider\VNogin.FluentAssertions.FakeDbProvider.csproj", "{50E14A8B-7A68-4AF3-9E2F-D147B468931B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VNogin.FluentAssertions.FakeDbProvider.Tests", "tests\VNogin.FluentAssertions.FakeDbProvider.Tests\VNogin.FluentAssertions.FakeDbProvider.Tests.csproj", "{9799627E-35A1-4F65-8635-AAB407C0A84E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50E14A8B-7A68-4AF3-9E2F-D147B468931B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50E14A8B-7A68-4AF3-9E2F-D147B468931B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50E14A8B-7A68-4AF3-9E2F-D147B468931B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50E14A8B-7A68-4AF3-9E2F-D147B468931B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9799627E-35A1-4F65-8635-AAB407C0A84E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9799627E-35A1-4F65-8635-AAB407C0A84E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9799627E-35A1-4F65-8635-AAB407C0A84E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9799627E-35A1-4F65-8635-AAB407C0A84E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38FDB93E-4575-4E5B-8840-714756D35F23}
+	EndGlobalSection
+EndGlobal
